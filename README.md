@@ -1,13 +1,13 @@
-## Anuva Singh's Portfolio
+# Anuva Singh's Portfolio
 
-# Skills
+## Skills
 - Python
 - Java
 - HTML/CSS
 - Git/GitHub
 
-# Projects 
+## Projects 
 - **Blackguard** — A Rogue-like game
 
-# Contact Information
+## Contact Information
 - Email: anuvasingh18@gmail.com

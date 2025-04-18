@@ -8,7 +8,7 @@ My name is Anuva Singh. I am 18 years old living in Allen, texas. I love doing c
 - Git/GitHub
 
 ## Projects 
-- **Blackguard** — A Rogue-like game
+- **Blackguard** — A roguelike, 2D ASCII adventure game.
 
 ## Contact Information
 - Email: anuvasingh18@gmail.com
